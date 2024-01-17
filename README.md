@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/erwan_decoster" target="blank"><img src="https://img.shields.io/twitter/follow/erwan_decoster?logo=twitter&style=for-the-badge" alt="erwan_decoster" /></a> </p>
 
-- 🔭 I’m currently working on [42 Minishell](https://github.com/Liurne/PatatoShell)
+- 🔭 I’m currently working on [Portfolio 2024(https://github.com/ErwanDecoster/Portfolio-2024)]
 
-- 🌱 I’m currently learning **C and Nuxt 3**
+- 🌱 I’m currently learning **Nuxt 3 and Typescript**
 
 - 👨‍💻 All of my projects are available at [erwan-decoster.com](https://erwan-decoster.com/)
 
