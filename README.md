@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [erwan-decoster.com](https://erwan-decoster.com/)
 
-- 💬 Ask me about **Nuxt 3, Javascript and Tailwind**
+- 💬 Ask me about **Nuxt 3, Vuejs 3, Javascript and Tailwind**
 
 - 📫 How to reach me **contact@erwan-decoster.com**
 
