@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, I'm Erwan Decoster</h1>
-<h3 align="center">Buidling things for web | A full stack dev from France</h3>
+<h3 align="center">Buidling things for web | A Front End dev from France</h3>
 
 <p align="left"> <a href="https://twitter.com/erwan_decoster" target="blank"><img src="https://img.shields.io/twitter/follow/erwan_decoster?logo=twitter&style=for-the-badge" alt="erwan_decoster" /></a> </p>
 
