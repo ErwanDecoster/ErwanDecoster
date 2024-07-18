@@ -67,8 +67,5 @@
 
 - My Portfolio [repos](https://github.com/ErwanDecoster/Portfolio-2022), [erwan-decoster.com](https://erwan-decoster.com/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ErwanDecoster&show_icons=true&locale=en" alt="ErwanDecoster" /></p>
-
-
 Made with ❤, by Erwan Decoster
     
