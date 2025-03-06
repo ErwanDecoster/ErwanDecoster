@@ -4,10 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/erwan_decoster" target="blank"><img src="https://img.shields.io/twitter/follow/erwan_decoster?logo=twitter&style=for-the-badge" alt="erwan_decoster" /></a> </p>
 
-- 🔭 I’m currently working on [Who's coming](https://github.com/ErwanDecoster/Who-s-coming)
-
-- 🌱 I’m currently learning **Nuxt 3 and Typescript**
-
 - 👨‍💻 All of my projects are available at [erwan-decoster.com](https://erwan-decoster.com/)
 
 - 💬 Ask me about **Nuxt 3, Vuejs 3, React, Javascript and Tailwind**
